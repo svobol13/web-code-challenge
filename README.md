@@ -1,6 +1,6 @@
 Deloitte Digital Code Challenge
 ==========================
-Your challenge: create a responsive web page based on the layout comp & assets included here.
+Your challenge: create a responsive web page based on the layout comp & assets included here. Workout the solution in fork of this repo.
 
 ### Requirements
 * "Pixel-perfect" index page as on `layout.png`.
