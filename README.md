@@ -12,3 +12,4 @@ Your challenge: create a responsive web page based on the layout comp & assets i
 * Design and implement `contact` page so it fits the design.
 * `single-command` build (i.e. production grade artifact produced (minification, obfuscation, concatenation, cleanup,...)).
 * Use of `angular` or `react` especially for forms control.
+
